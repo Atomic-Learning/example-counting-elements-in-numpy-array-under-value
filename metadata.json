@@ -1,22 +1,24 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Example: Counting Elements in a NumPy Array Under a Value",
+    "slug": "example-counting-elements-in-numpy-array-under-value",
+    "description": "An example function that combines comparison of numpy array with a scalar and the sum method to count the number of entries under a particular value.",
     "authors": [
-        "",
-        ""
+        "chris-cooling",
+        "giorgia-del-missier"
     ],
     "tags": [
-        "",
-        ""
+        "python",
+        "numpy"
     ],
-    "duration": 0,
+    "duration": 2,
     "prerequisites": [
-        "",
-        ""
+        "numpy-array-scalar-operations",
+        "numpy-boolean-aggregation",
+        "programming-defining-functions"
     ],
     "related": [
-        "",
-        ""
+    ],
+    "python_packages": [
+        "numpy"
     ]
 }
