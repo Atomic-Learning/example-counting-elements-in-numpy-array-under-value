@@ -14,7 +14,7 @@
     "prerequisites": [
         "numpy-array-scalar-operations",
         "numpy-boolean-aggregation",
-        "programming-defining-functions"
+        "python-defining-functions"
     ],
     "related": [
     ],
