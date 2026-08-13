@@ -13,3 +13,5 @@ print(check_all_less_than_threshold(a, 2))
 ```
 
 Within the function, the order of operations applies as normal so `arr < threshold` is evaluated first, returning a boolean array. The entries of this array describe whether the corresponding entries of `arr` are less than the threshold. The `.all()` method is then called on this boolean array, returning a single boolean value that describes whether all entries of the array are `True`.
+
+Combining operations like this can be a compact and computationally efficient way to ask questions about the data in an array.
